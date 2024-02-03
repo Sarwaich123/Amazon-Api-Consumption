@@ -1,0 +1,64 @@
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.AssemblyInfoInputs.cache
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.AssemblyInfo.cs
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csproj.CoreCompileInputs.cache
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.exe
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.deps.json
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.runtimeconfig.json
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.runtimeconfig.dev.json
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.pdb
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\AwsSignatureVersion4.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Nager.AmazonProductAdvertising.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csproj.CopyComplete
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.dll
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.pdb
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.genruntimeconfig.cache
+C:\Users\talpu\source\repos\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csprojAssemblyReference.cache
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.exe
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.deps.json
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.runtimeconfig.json
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.runtimeconfig.dev.json
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.pdb
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\AwsSignatureVersion4.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Nager.AmazonProductAdvertising.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csproj.AssemblyReference.cache
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.AssemblyInfoInputs.cache
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.AssemblyInfo.cs
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csproj.CoreCompileInputs.cache
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csproj.CopyComplete
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.dll
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.pdb
+C:\Users\SarwaichRaza\Desktop\Project\ConsumeApiSolution\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.genruntimeconfig.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.exe
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.deps.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.runtimeconfig.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.runtimeconfig.dev.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\ConsumeApiSolution.pdb
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\AwsSignatureVersion4.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Nager.AmazonProductAdvertising.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csproj.AssemblyReference.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.AssemblyInfoInputs.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.AssemblyInfo.cs
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csproj.CoreCompileInputs.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.csproj.CopyComplete
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.pdb
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\AmazonApiConsumption\ConsumeApiSolution\obj\Debug\netcoreapp3.1\ConsumeApiSolution.genruntimeconfig.cache
